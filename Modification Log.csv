@@ -1,0 +1,115 @@
+﻿Who;Date;modification;modified class;Class (in Italian);subclasses (S) or superclasses (P)
+AR;28/01/20;removal;Territory;;S: Country, Disputed, Not Self Governing, Other, Self Governining
+AR;28/01/20;removal;Calendar;;S. Calendar Busy, Calendar Link, Calendar Request
+AR;28/01/20;removal;Communication;;S: EMail, Language, Messaging, Telephone
+AR;28/01/20;expansion in subclassess;Document Status;;
+AR;28/01/20;removal;Thesis Degree;;
+AR;28/01/20;removal;Data Item;;P: Entity, Continuant, Gen Dep. Continuant, Info Content Entity
+AR;28/01/20;removal;Datum label;;P: Entity, Continuant, Gen Dep. Continuant, Info Content Entity
+AR;28/01/20;removal;Services;;P: Entity, Continuant, Gen Dep. Continuant, Info Content Entity
+AR;28/01/20;removal;Librarian;;P: Entity, Continuant, Independent Continuant, Agent, Person
+AR;28/01/20;removal;Librarian Emeritus;;P: Entity, Continuant, Independent Continuant, Agent, Person
+AR;28/01/20;move to other class;Software;;P: Entity, Continuant, Independent Continuant, Material Entity
+AR;28/01/20;renaming;Realizable Entity;;P: Specifically Dependent Continuant
+FB;24/02/20;removal;Site;;S: Facility, S: Building, Room
+FB;24/02/20;removal;Continent;;
+FB;24/02/20;removal;Populated Place;;
+FB;24/02/20;add;State University;Università Statale;P: University
+FB;24/02/20;add;Non-State University;Università Privata;P: University
+FB;24/02/20;add;has university size (proprietà);;Proprietà: Small, Medium, Large
+FB;24/02/20;add;Research Line;Linea di Ricerca;P: Specifically Dependent Continuant
+FB;24/02/20;removal;Faculty Member Emeritus;;P: People
+FB;24/02/20;removal;Professore Emeritus;;P: People
+FB;24/02/20;removal;Post-Doc;;P: Non-Faculty Accademic
+FB;24/02/20;removal;Undergraduate Student;;P: Student
+FB;24/02/20;removal;Graduate Student;;P: Student
+FB;24/02/20;add;Tenure Track;Tempo Indeterminato;P: Faculty Member
+FB;24/02/20;add;Fixed Terms;Tempo Determinato;P: Faculty Member
+FB;24/02/20;add;Research Mindset;Forma Mentis;P: Quality
+FB;24/02/20;add;Prestige;Prestigio;P: Research Mindset
+FB;24/02/20;add;Finalization of Results;Finalizzazione dei risultati;P: Research Mindset
+FB;24/02/20;add;Competence;Competenza;P: Research Mindset
+FB;24/02/20;add;Tollerance;Tolleranza;P: Research Mindset
+FB;24/02/20;add;Institutional Mobility;Mobilità Insituzionale;P: Research Mindset
+FB;24/02/20;add;Geographic Mobility;Mobilità Geografica;P: Research Mindset
+FB;24/02/20;add;Inclination For Discovery;Propensione alla scoperta;P: Research Mindset
+FB;24/02/20;add;Inclination For Transdisciplinarity;Propensione alla transdisciplinarità;P: Research Mindset
+FB;24/02/20;add;Inclination For International Pubblication;Propensione alla pubblicazione dei risultati attraverso canali internazionali;P: Research Mindset
+FB;24/02/20;add;Pubblication Channel Selection;Scelta del canale di pubblicazione;P: Quality
+FB;24/02/20;add;Pubblication Channel;Canale di pubblicazione;P: Information Content Entity
+FB;26/02/20;add;Proactivity In Collaboration;Proattività della collaborazione;P: Research Mindset
+FB;26/02/20;add;Inclination For Collaboration;Propensione alla collaboratività nella produzione di conoscenza;P: Research Mindset
+FB;26/02/20;add;Competitivity;Competitività;P: Research Mindset
+FB;26/02/20;add;Management;Abilità gestionale;P: Quality
+FB;26/02/20;removal;US Resident Role;;P: Role
+FB;26/02/20;removal;Process;;P: Occurrent
+FB;26/02/20;add;Mentor Role;Mentore;P: Advising Role
+FB;26/02/20;add;Mentee Role;"""Mentorato""";P: Advesee Role
+RS;05/03/20;removal;Occurrant;;P:Entity
+RS;05/03/20;removal;Relation Type;;P: Code
+RS;05/03/20;removal;Telephone Type;;P: Code
+RS;05/03/20;removal;Type;;P: Code
+RS;05/03/20;removal;Email;;P: Communication
+RS;05/03/20;removal;Language;;P: Communication
+RS;05/03/20;removal;Messaging;;P: Communication
+RS;05/03/20;removal;Telephone;;P: Communication
+FB;04/03/20;add;Formal;Formale;P: Communication
+FB;04/03/20;add;Informal;Informale;P: Communication
+FB;04/03/20;removal;Addressing;;P: Thing
+RS;05/03/20;removal;Area;;P: Thing
+RS;05/03/20;removal;Contact Qualifier;;P: Concept
+RS;05/03/20;removal;Date/Time Value Precision;;P: Concept
+RS;05/03/20;removal;Explanatory;;P: Thing
+RS;05/03/20;removal;Geographic;;P: Thing
+RS;05/03/20;removal;Formatted Name;;P: Identification
+RS;05/03/20;removal;Nickname;;P: Identification
+RS;05/03/20;removal;Photo;;P: Identification
+FB;05/03/20;removal;URL;;
+FB;05/03/20;add;Database Online - Repository;Banca dati Online;P: Website
+FB;05/03/20;add;Search Engine;Motore di ricerca;P: Website
+FB;04/03/20;removal;OBI_0000 tutti;;P: Thing
+RS;05/03/20;removal;Interventional Study;;P: Thing
+RS;05/03/20;removal;Logo;;P: Organizational
+RS;05/03/20;removal;Related;;P: Organizational
+RS;05/03/20;removal;Title;;P: Organizational
+RS;05/03/20;removal;Security;;P: Thing
+RS;05/03/20;removal;email;;P: Object Properties/data properties
+RS;05/03/20;removal;email;;P: Vcard Kind (Equivalent to)
+RS;05/03/20;removal;messaging;;P: object Properties
+RS;05/03/20;removal;Telephone;;P: vcard Kind (Equivalent to)
+RS;05/03/20;removal;is a predecessor;;P: object Properties
+RS;05/03/20;removal;is a successor;;P: object Properties
+RS;05/03/20;removal;date/time;;P: data properties
+RS;05/03/20;removal;has note;;P: object properties
+RS;05/03/20;removal;note;;P: data properties
+RS;05/03/20;removal;sound;;P: data properties
+RS;05/03/20;removal;has sound;;P: object Properties
+RS;05/03/20;removal;category;;P: data properties
+RS;05/03/20;removal;has category;;P: object Properties
+RS;05/03/20;removal;nickname;;P: data properties
+RS;05/03/20;removal;has nickname;;P: object Properties
+RS;05/03/20;removal;photo;;P: data properties
+RS;05/03/20;removal;has photo;;P: object Properties
+RS;05/03/20;removal;has phase;;P: object Properties
+RS;05/03/20;removal;has logo;;P: object Properties
+RS;05/03/20;removal;logo;;P: data properties
+RS;05/03/20;removal;title;;P: Vcard Kind (Equivalent to)
+RS;05/03/20;removal;related;;P: data properties
+RS;05/03/20;removal;has related;;P: object Properties
+FB;11/03/20;add;Social Network;;P: website
+FB;11/03/20;removal;Conclusion Textual Entity;;P: Information Content Entity
+FB;11/03/20;removal;Textual Entity;;P: Information Content Entity
+FB;11/03/20;removal;Contact Qualifier;;P: Information Content Entity
+FB;11/03/20;removal;Data About an Ontology Part;;P: Data Item
+FB;11/03/20;add;SOTTOCLASSI;;P: Directive Information Entity
+FB;11/03/20;removal;College;;P: Organization
+FB;11/03/20;removal;Student Organization;;P: Organization
+FB;11/03/20;substitution;relates some in Mentor Relationship;;
+FB;11/03/20;removal;Faculty Administrative Position;;P: Position
+FB;11/03/20;removal;Faculty Position;;P: Position
+FB;11/03/20;removal;Librarian Position;;P: Position
+FB;11/03/20;removal;Non-Academic Position;;P: Position
+FB;11/03/20;removal; Non-Faculty Academic Position;;P: Position
+FB;11/03/20;removal;Primary Position;;P: Position
+FB;11/03/20;add;Primary Role;;P: Role
+FB;11/03/20;removal;Undergraduate Advising Relationship;;P: Advising Relationship
